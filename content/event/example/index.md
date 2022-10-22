@@ -1,28 +1,20 @@
 ---
-title: Example Event
+title: FEE3 2022
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: FEE3 2022
+event_url: https://feuniverse.us/t/fee3-2022-submissions-thread/16062
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An annual hacking showcase event.
+abstract: 'Fire Emblem E3 (FEE3 for short) is an over decade-long tradition in the Fire Emblem hacking community wherein Fire Emblem romhacks and fangames are showcased for fellow hack creators, players, and Fire Emblem enthusiasts to view to see the community’s progress in the past year.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-10-15T12:00:00Z'
+date_end: '2022-11-04T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-12T12:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +23,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Fenreir**](https://feuniverse.us/u/fenreir/)'
   focal_point: Right
 
 url_code: ''
@@ -54,10 +46,4 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+[Click](https://feuniverse.us/t/fee3-2022-submissions-thread/16062) to learn further event details.

@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./project/" cta_text="Meet the project →" %}}
+{{% cta cta_link="http://github.laqieer.ml/gallery.html" cta_text="Meet the project →" %}}
